@@ -1,0 +1,1 @@
+export const JWT_password ="Bankai Zako no tachi"
